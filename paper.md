@@ -2,7 +2,7 @@
 Gibberish
 
 # Title
-Aging of biomass burning aerosols over West Africa
+Aging of biomass burning aerosols over West Australia
 
 ## Author
 Arthur Sinko
