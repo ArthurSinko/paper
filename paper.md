@@ -33,3 +33,8 @@ sdfsdf
 
 # Results
 Result section is for results. What a surprise!
+
+# Figures
+There are no figures in this paper.
+
+
