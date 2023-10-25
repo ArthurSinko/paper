@@ -1,11 +1,9 @@
-# Tittle
-Gibberish
 
 # Title
 Aging of biomass burning aerosols over West United States.
 
 ## Author
-Arthur Sinko
+Sinko Arthur Arthur Sinko
 
 # Introduction
 We present aircraft measurements of BBOA over and over again.
@@ -38,4 +36,10 @@ Result section is for results. What a surprise!
 There are no figures in this paper.
 
 # Conclusions
-There are no conclusions here. Just a text.
+Another useless paper that noone will read. Congratulations!
+
+
+
+
+
+
