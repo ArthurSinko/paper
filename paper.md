@@ -37,4 +37,5 @@ Result section is for results. What a surprise!
 # Figures
 There are no figures in this paper.
 
-
+# Conclusions
+There are no conclusions here. Just a text.
